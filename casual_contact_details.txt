@@ -1,0 +1,10 @@
+ID: 4
+Name: 3
+Phone Number: 2
+Date you entered the spot: 3
+Time you entered the spot: 4
+Restricted spot id you entered: 1
+Restricted spot name you entered: ICU
+Contact Status: Casual Contact
+
+
